@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31612.314
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "diagonal-difference", "diagonal-difference\diagonal-difference.csproj", "{DC00FF6B-A665-443E-8B1A-4C18425A7A23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "diagonal-difference", "diagonal-difference\diagonal-difference.csproj", "{DC00FF6B-A665-443E-8B1A-4C18425A7A23}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "plus-minus", "plus-minus\plus-minus.csproj", "{9024FE77-19A7-4157-BAD2-3C49ED7961A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "active-traders", "active-traders\active-traders.csproj", "{D7C904C3-6054-430A-8394-059147E259CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "road-repair", "road-repair\road-repair.csproj", "{DA533CC2-2A0E-4ABA-8190-6C52679DDD14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{DC00FF6B-A665-443E-8B1A-4C18425A7A23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC00FF6B-A665-443E-8B1A-4C18425A7A23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC00FF6B-A665-443E-8B1A-4C18425A7A23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9024FE77-19A7-4157-BAD2-3C49ED7961A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9024FE77-19A7-4157-BAD2-3C49ED7961A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9024FE77-19A7-4157-BAD2-3C49ED7961A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9024FE77-19A7-4157-BAD2-3C49ED7961A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7C904C3-6054-430A-8394-059147E259CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7C904C3-6054-430A-8394-059147E259CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7C904C3-6054-430A-8394-059147E259CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7C904C3-6054-430A-8394-059147E259CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA533CC2-2A0E-4ABA-8190-6C52679DDD14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA533CC2-2A0E-4ABA-8190-6C52679DDD14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA533CC2-2A0E-4ABA-8190-6C52679DDD14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA533CC2-2A0E-4ABA-8190-6C52679DDD14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
